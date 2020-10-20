@@ -1,3 +1,10 @@
+## How to run the game
+
+first, run 'npm install' or 'yarn install'
+then run 'npm start' or 'yarn start'
+
+## About Project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
