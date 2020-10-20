@@ -1,7 +1,7 @@
 ## How to run the game
 
-first, run 'npm install' or 'yarn install'
-then run 'npm start' or 'yarn start'
+First, run 'npm install' or 'yarn install' <br />
+Then run 'npm start' or 'yarn start'
 
 ## About Project
 
