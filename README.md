@@ -1,7 +1,20 @@
+## About the game
+
+The game has a character you can move and targets on the board. <br />
+First, Choose the width and height of the board <br />
+The game tries to generate targets in random position and sets the character near center.<br />
+Try to eat all targets using Keyboard Arrow Keys. <br />
+A simple css transform is used to move the character.
+
 ## How to run the game
 
 First, run 'npm install' or 'yarn install' <br />
-Then run 'npm start' or 'yarn start'
+Then run 'npm start' or 'yarn start' <br />
+
+## What I used
+
+React Hooks <br />
+Styled Components - for styling <br />
 
 ## About Project
 

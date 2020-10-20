@@ -9,6 +9,7 @@ const StyledCharacter = styled.div`
   transform: ${(props) => {
     return `translate(${props.horizontal * 4}rem, ${props.vertical * 4}rem)`
   }};
+  transition: transform 200ms ease-out;
   svg {
     height: 4rem;
     width: 4rem;
